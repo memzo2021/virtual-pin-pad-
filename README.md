@@ -35,8 +35,8 @@ Le Product Owner (PO) est un chef de projet en mode agile. Il est en charge de s
 --------------------------------------------------------------------Maquette Static------------------------------------------------------------------------
 ------------------------------------------------------------------------HTML---------------------------------------------------------
 # Doctype:
-Est une instruction spécifique qui indique au navigateur la version du langage HTML qui sera utilisée. Elle doit être utilisé au tout début, avant la balise html.
-#Les entêtes:
+Est une instruction spécifique qui indique au navigateur la version du langage HTML qui sera utilisée. Elle doit être utilisé au tout début, avant la balise html. 
+# Les entêtes:
 Les entêtes contiennent des informations sur la page elle-même (« méta-données ») : titre, auteur, description du contenu de la page, mots-clefs, où feuille(s) de style à utiliser.
  
 
