@@ -1,4 +1,4 @@
-# virtual-pin-pad-
+# Virtual-Pin-Pad-
 # Introduction :
 Pour l’authentification et le paiement de ses clients par un code Pin, la banque a besoin d’une interface web.
 
