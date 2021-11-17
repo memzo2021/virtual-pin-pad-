@@ -43,3 +43,6 @@ Sert à contrôler la mise en page sur mobile.
 # Il est recommandé d'avoir les styles à part:
 Parceque le fichier CSS peut commander plusieurs fichiers HTML différents, tout est centralisé et on pourra changer tout d'un coup.
 
+# Explication  du  modèle de boîtes en CSS:
+Le modèle de boîte  s'applique totalement aux boîtes en bloc, mais les boîtes en ligne ne reprennent que certains aspects — le modèle est alors simplifié ! Ce modèle définit comment chaque composant de la boîte, à savoir la marge, la bordure, le padding (remplissage intérieur) et le contenu, fonctionnent ensemble pour former l'aspect final rendu à l'écran. Pour ajouter un soupçon de complexité, il est aussi possible de passer du modèle standard à un modèle alternatif.
+
