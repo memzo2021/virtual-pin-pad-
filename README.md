@@ -23,7 +23,7 @@ Voici à quoi ressemblera plus ou moins l'interface Web demandé par le client.
 ![IMG_20211117_151900](https://user-images.githubusercontent.com/94376545/142249909-ee35ac9e-5c57-4bfc-8db1-442cd501a1f0.jpg)
 
 # Le Wireframe:
- Va nous obliger à poser et à faire valider l’ensemble denvos blocs sur toutes les pages de notre site .
+ Le Wireframe va nous obliger à poser et à faire valider l’ensemble denvos blocs sur toutes les pages de notre site .
  Mais aussi, il va nous obliger à anticiper le contenu à créer dans le cas où ce n’est pas encore le cas.
  
  ---------------------------------------- Voici le croquis réaliser par le Wirefame gratuit Balsamiq ----------------------------------------- 
