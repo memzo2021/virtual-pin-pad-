@@ -27,4 +27,5 @@ Voici à quoi ressemblera plus ou moins l'interface Web demandé par le client.
  Mais aussi, il va nous obliger à anticiper le contenu à créer dans le cas où ce n’est pas encore le cas.
  
  ---------------------------------------- Voici le croquis réaliser par le Wirefame gratuit Balsamiq ----------------------------------------- 
+[New Project 1.pdf](https://github.com/memzo2021/virtual-pin-pad-/files/7556914/New.Project.1.pdf)
 
