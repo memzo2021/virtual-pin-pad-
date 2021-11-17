@@ -49,3 +49,5 @@ Le modèle de boîte  s'applique totalement aux boîtes en bloc, mais les boîte
 # Un sélecteur CSS :
 Est une expression qui indique au navigateur à quelle entité HTML s'applique la règle CSS correspondante. Le ou les éléments ciblés par le sélecteur sont le sujet de ce sélecteur.
 
+# Une propriété CSS :
+La propriété va nous permettre de choisir quels aspects ou styles d'un élément HTML on souhaite modifier.
