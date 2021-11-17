@@ -46,3 +46,6 @@ Parceque le fichier CSS peut commander plusieurs fichiers HTML différents, tout
 # Explication  du  modèle de boîtes en CSS:
 Le modèle de boîte  s'applique totalement aux boîtes en bloc, mais les boîtes en ligne ne reprennent que certains aspects — le modèle est alors simplifié ! Ce modèle définit comment chaque composant de la boîte, à savoir la marge, la bordure, le padding (remplissage intérieur) et le contenu, fonctionnent ensemble pour former l'aspect final rendu à l'écran. Pour ajouter un soupçon de complexité, il est aussi possible de passer du modèle standard à un modèle alternatif.
 
+# Un sélecteur CSS :
+Est une expression qui indique au navigateur à quelle entité HTML s'applique la règle CSS correspondante. Le ou les éléments ciblés par le sélecteur sont le sujet de ce sélecteur.
+
