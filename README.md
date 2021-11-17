@@ -33,7 +33,7 @@ Voici à quoi ressemblera plus ou moins l'interface Web demandé par le client.
 Le Product Owner (PO) est un chef de projet en mode agile. Il est en charge de satisfaire les besoins des clients(Banque dans notre cas) en menant à bien la livraison d'un produit de qualité. Il sert d'interface entre l'équipe technique, l'équipe marketing et les clients.
 
 --------------------------------------------------------------------Maquette Static------------------------------------------------------------------------
-------------------------------------------------------------------------HTML-------------------------------------------------------------------------------
+--------------------------------------------HTML-------------------------------------------------------------------------------
 # Doctype:
 Est une instruction spécifique qui indique au navigateur la version du langage HTML qui sera utilisée. Elle doit être utilisé au tout début, avant la balise html.
 #Les entêtes:
