@@ -38,5 +38,8 @@ Le Product Owner (PO) est un chef de projet en mode agile. Il est en charge de s
 Est une instruction spécifique qui indique au navigateur la version du langage HTML qui sera utilisée. Elle doit être utilisé au tout début, avant la balise html. 
 # Les entêtes:
 Les entêtes contiennent des informations sur la page elle-même (« méta-données ») : titre, auteur, description du contenu de la page, mots-clefs, où feuille(s) de style à utiliser.
- 
+# L’entête « meta viewport:
+Sert à contrôler la mise en page sur mobile.
+# Il est recommandé d'avoir les styles à part:
+Parceque le fichier CSS peut commander plusieurs fichiers HTML différents, tout est centralisé et on pourra changer tout d'un coup.
 
