@@ -7,10 +7,11 @@ Pour l’authentification et le paiement de ses clients par un code Pin, la banq
 # Membres : [Glécia, Mahomed, Ali, et Ida (Scrum Master)]
 
 # GitHub : 
-est un service d'hébergement de projets en cours de développement.
+Est un service d'hébergement de projets en cours de développement.
 
 # Repository :   
-c’est un répertoire numérique ou un espace de stockage où vous pouvez accéder à votre projet à tout moment.
+C![IMG_20211117_151900](https://user-images.githubusercontent.com/94376545/142247055-386893d6-7a1b-4864-aa7f-4b7323cfa746.jpg)
+’est un répertoire numérique ou un espace de stockage où vous pouvez accéder à votre projet à tout moment.
 
 # Kaban : 
 La méthode Kanban fonctionne sur un système de cartes ou d'étiquettesCes cartes indiquent continuellement les tâches à réaliser, quand les réaliser, et les tâches déjà réalisées la méthode Kanban permet de contrôler visuellement le flux de travail 
