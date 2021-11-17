@@ -18,7 +18,8 @@ La méthode Kanban fonctionne sur un système de cartes ou d'étiquettesCes cart
 # Le tableau de suivi partagé entre les membres sert à :
 Rendre l’équipe plus performante et plus productive. Il implique des échanges constants entre les membres de l’équipe, où qu’ils soient, et Il favorise le partage et l’acquisition de connaissances.
 
---------------------------------------------------- En attendant la validation du PO -----------------------------------Voici à quoi ressemblera plus ou moins l'interface Web demandé par le client.
+--------------------------------------------------- En attendant la validation du PO ----------------
+Voici à quoi ressemblera plus ou moins l'interface Web demandé par le client.
 ![IMG_20211117_151900](https://user-images.githubusercontent.com/94376545/142249909-ee35ac9e-5c57-4bfc-8db1-442cd501a1f0.jpg)
 
 
