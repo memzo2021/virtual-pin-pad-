@@ -20,5 +20,6 @@ Rendre l’équipe plus performante et plus productive. Il implique des échange
 
 ---------------------- En attendant la validation du PO --------------------------------------------
 Voici à quoi ressemblera plus ou moins l'interface Web demandé par le client.
+![IMG_20211117_151900](https://user-images.githubusercontent.com/94376545/142249909-ee35ac9e-5c57-4bfc-8db1-442cd501a1f0.jpg)
 
 
