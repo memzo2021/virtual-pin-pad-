@@ -29,6 +29,7 @@ Voici à quoi ressemblera plus ou moins l'interface Web demandé par le client.
  ---------------------------------------- Voici le croquis réaliser par le Wirefame gratuit Balsamiq ----------------------------------------- 
 ![pin](https://user-images.githubusercontent.com/94376545/142257720-d3ae8a16-2cc4-4237-998a-f442ad48fa28.png)
 
---------------------------------------------------------------------- Le rôle du PO -------------------------------------------------------------------------
+--------------------------------------------------------------------- Le rôle du PO -----------------------------------------------------------------------
+Le Product Owner (PO) est un chef de projet en mode agile. Il est en charge de satisfaire les besoins des clients(Banque dans notre cas) en menant à bien la livraison d'un produit de qualité. Il sert d'interface entre l'équipe technique, l'équipe marketing et les clients.
  
 
