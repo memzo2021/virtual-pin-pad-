@@ -20,7 +20,7 @@ Rendre l’équipe plus performante et plus productive. Il implique des échange
 
 --------------------------------------------------- En attendant la validation du PO ----------------
 Voici à quoi ressemblera plus ou moins l'interface Web demandé par le client.
-![IMG_20211117_151900](https://user-images.githubusercontent.com/94376545/142249909-ee35ac9e-5c57-4bfc-8db1-442cd501a1f0.jpg)
+ ![pin](https://user-images.githubusercontent.com/94376545/142741254-1462887b-f284-4344-8de9-4e28a6db8a68.jpg)
 
 # Le Wireframe:
  Le Wireframe va nous obliger à poser et à faire valider l’ensemble denvos blocs sur toutes les pages de notre site .
