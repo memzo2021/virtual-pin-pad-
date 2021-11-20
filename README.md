@@ -53,4 +53,6 @@ Est une expression qui indique au navigateur à quelle entité HTML s'applique l
 La propriété va nous permettre de choisir quels aspects ou styles d'un élément HTML on souhaite modifier.
 # Liste des principaux liens utilisés pour s’aider à réaliser la maquette HTML/CSS:
  https://developer.mozilla.org/
+ https://dev.to/ali6nx404/cheat-sheets-that-always-save-my-time-during-web-development-2ga4
+ https://lesjeudis.com
 
