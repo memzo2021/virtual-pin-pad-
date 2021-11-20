@@ -26,7 +26,7 @@ Voici à quoi ressemblera plus ou moins l'interface Web demandé par le client.
  Le Wireframe va nous obliger à poser et à faire valider l’ensemble denvos blocs sur toutes les pages de notre site .
  Mais aussi, il va nous obliger à anticiper le contenu à créer dans le cas où ce n’est pas encore le cas.
  
-# ---------------------------------------- Voici le croquis réaliser par le Wirefame gratuit Balsamiq ----------------------------------------- 
+---------------------------------------- Voici le croquis réaliser par le Wirefame gratuit Balsamiq ----------------------------------------- 
 ![pin](https://user-images.githubusercontent.com/94376545/142257720-d3ae8a16-2cc4-4237-998a-f442ad48fa28.png)
 
 #--------------------------------------------------------------------- Le rôle du PO -----------------------------------------------------------------------
