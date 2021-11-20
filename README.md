@@ -52,5 +52,6 @@ Est une expression qui indique au navigateur à quelle entité HTML s'applique l
 # Une propriété CSS :
 La propriété va nous permettre de choisir quels aspects ou styles d'un élément HTML on souhaite modifier.
 # Liste des principaux liens utilisés pour s’aider à réaliser la maquette HTML/CSS:
+![pin](https://user-images.githubusercontent.com/94376545/142742702-4436ab01-b1db-4458-b3de-ad37e38c3551.jpg)
 
 
